@@ -1,0 +1,4 @@
+to-do app: 	https://www.youtube.com/watch?v=p7Z1BVmskdU
+
+/=========== Database migrations ===========/
+https://www.fullstackbook.com/code/springboot-todo/
